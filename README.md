@@ -1,2 +1,3 @@
-# next-data-visualizer-xtxe
-Automated issue comment bot repository for ETL pipeline
+# Next Data Visualizer Xtxe
+
+Automated issue comment bot repository.
